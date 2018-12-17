@@ -1,0 +1,12 @@
+import Vue from 'vue'
+import App from './App.vue'
+
+import vueEventCalendar from '../src/'
+// import vueEventCalendar from '../dist'
+// import '../dist/style.css'
+Vue.use(vueEventCalendar, {locale: 'ja', weekStartOn: 0})
+
+new Vue({
+  el: '#app',
+  render: h => h(App)
+})

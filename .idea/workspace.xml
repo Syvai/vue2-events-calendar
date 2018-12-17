@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f951653-732a-4d79-81ad-be494e639c62" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/vue-event-calendar.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="297" column="30" selection-start-line="297" selection-start-column="30" selection-end-line="297" selection-end-column="30" />
+              <folding>
+                <element signature="n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#cal-panel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#!!top" expanded="true" />
+                <element signature="e#593#635#0" expanded="true" />
+                <element signature="e#803#3579#0" expanded="true" />
+                <element signature="e#849#909#0" expanded="true" />
+                <element signature="e#934#1057#0" expanded="true" />
+                <element signature="e#961#1051#0" expanded="true" />
+                <element signature="e#1072#1482#0" expanded="true" />
+                <element signature="e#1105#1478#0" expanded="true" />
+                <element signature="e#1263#1439#0" expanded="true" />
+                <element signature="e#1496#2359#0" expanded="true" />
+                <element signature="e#1675#1980#0" expanded="true" />
+                <element signature="e#1696#1770#0" expanded="true" />
+                <element signature="e#1790#1970#0" expanded="true" />
+                <element signature="e#2179#2341#0" expanded="true" />
+                <element signature="e#2518#2980#0" expanded="true" />
+                <element signature="e#2606#2607#0" expanded="true" />
+                <element signature="e#2662#2663#0" expanded="true" />
+                <element signature="e#2729#2787#0" expanded="true" />
+                <element signature="e#2828#2880#0" expanded="true" />
+                <element signature="e#2991#3577#0" expanded="true" />
+                <element signature="e#3123#3124#0" expanded="true" />
+                <element signature="e#3212#3213#0" expanded="true" />
+                <element signature="e#3248#3327#0" expanded="true" />
+                <element signature="e#3376#3440#0" expanded="true" />
+                <element signature="e#3503#3567#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/i18n.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="144" column="3" selection-start-line="144" selection-start-column="3" selection-end-line="144" selection-end-column="3" />
+              <folding>
+                <element signature="e#23#357#0" expanded="true" />
+                <element signature="e#365#623#0" expanded="true" />
+                <element signature="e#631#965#0" expanded="true" />
+                <element signature="e#973#1300#0" expanded="true" />
+                <element signature="e#1313#1655#0" expanded="true" />
+                <element signature="e#1663#1928#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/components/cal-panel.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="135" column="31" selection-start-line="135" selection-start-column="31" selection-end-line="135" selection-end-column="31" />
+              <folding>
+                <element signature="n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#1412#1441#0" expanded="true" />
+                <element signature="e#1615#1655#0" expanded="true" />
+                <element signature="e#1670#1867#0" expanded="true" />
+                <element signature="e#1684#1731#0" expanded="true" />
+                <element signature="e#1747#1795#0" expanded="true" />
+                <element signature="e#1814#1863#0" expanded="true" />
+                <element signature="e#1881#3958#0" expanded="true" />
+                <element signature="e#2761#2970#0" expanded="true" />
+                <element signature="e#3012#3355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/tools.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+              <folding>
+                <element signature="n#!!block;n#dateTimeFormatter#0" expanded="true" />
+                <element signature="e#419#673#0" expanded="true" />
+                <element signature="e#735#999#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="e#266#380#0" expanded="true" />
+                <element signature="e#573#735#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#931#1074#0" expanded="true" />
+                <element signature="e#1764#2038#0" expanded="true" />
+                <element signature="e#1776#2034#0" expanded="true" />
+                <element signature="e#1806#2028#0" expanded="true" />
+                <element signature="e#1858#2020#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/dev/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+              <folding>
+                <element signature="n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#vue-event-calendar#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#vue-event-calendar#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#template#0;n#vue-event-calendar#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#template#0;n#vue-event-calendar#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#752#938#0" expanded="true" />
+                <element signature="e#939#1116#0" expanded="true" />
+                <element signature="e#1117#1294#0" expanded="true" />
+                <element signature="e#1295#1472#0" expanded="true" />
+                <element signature="e#1473#1650#0" expanded="true" />
+                <element signature="e#1651#1837#0" expanded="true" />
+                <element signature="e#1838#1978#0" expanded="true" />
+                <element signature="n#style#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>curYearMonth</find>
+      <find>weeks</find>
+      <find>currentMonth</find>
+      <find>sty</find>
+      <find>selectedday</find>
+      <find>className</find>
+      <find>calendar</find>
+      <find>calendarOptions</find>
+      <find>select</find>
+      <find>selected-day</find>
+      <find>day-changed'</find>
+      <find>customClass</find>
+      <find>day-changed</find>
+      <find>selectedDayEvents</find>
+      <find>selectedDay</find>
+      <find>cur-day-changed</find>
+      <find>calendarParams</find>
+      <find>DEFAULT_OPTION</find>
+      <find>date-n</find>
+      <find>handleChangeCurDay</find>
+      <find>handleChangeCurday</find>
+      <find>event</find>
+      <find>.event</find>
+      <find>item</find>
+      <find>selected</find>
+      <find>status</find>
+      <find>sele</find>
+      <find>dayList</find>
+      <find>isEqualDateStr</find>
+      <find>today</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dev/main.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/i18n.js" />
+        <option value="$PROJECT_DIR$/src/tools.js" />
+        <option value="$PROJECT_DIR$/dev/App.vue" />
+        <option value="$PROJECT_DIR$/src/components/cal-panel.vue" />
+        <option value="$PROJECT_DIR$/src/vue-event-calendar.vue" />
+        <option value="$PROJECT_DIR$/../vue2-events-calendar/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue-event-calendar-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue2-events-calendar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f951653-732a-4d79-81ad-be494e639c62" name="Default Changelist" comment="" />
+      <created>1544846460488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544846460488</updated>
+      <workItem from="1544846462355" duration="1362000" />
+      <workItem from="1544854286412" duration="3443000" />
+      <workItem from="1544948613202" duration="16975000" />
+      <workItem from="1545038619473" duration="1350000" />
+      <workItem from="1545060926649" duration="2771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25901000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32923833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32923833" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <folding>
+              <element signature="n#template#0;n#!!top" expanded="true" />
+              <element signature="n#template#0;n#!!top" expanded="true" />
+              <element signature="n#template#0;n#!!top" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/components/cal-event-item.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#264#293#0" expanded="true" />
+            <element signature="e#382#400#0" expanded="true" />
+            <element signature="e#415#603#0" expanded="true" />
+            <element signature="e#428#476#0" expanded="true" />
+            <element signature="e#489#537#0" expanded="true" />
+            <element signature="e#551#599#0" expanded="true" />
+            <element signature="e#616#643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/dev/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/img/icon3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/img/icon2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/img/icon1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17552">
+          <caret line="1097" column="24" selection-start-line="1097" selection-start-column="24" selection-end-line="1097" selection-end-column="24" />
+          <folding>
+            <element signature="e#376#31431#0" expanded="true" />
+            <element signature="e#413#2864#0" expanded="true" />
+            <element signature="e#594#1286#0" expanded="true" />
+            <element signature="e#874#959#0" expanded="true" />
+            <element signature="e#1800#2038#0" expanded="true" />
+            <element signature="e#1906#2011#0" expanded="true" />
+            <element signature="e#2182#2456#0" expanded="true" />
+            <element signature="e#2951#31427#0" expanded="true" />
+            <element signature="e#3027#4639#0" expanded="true" />
+            <element signature="e#3240#4230#0" expanded="true" />
+            <element signature="e#3615#3869#0" expanded="true" />
+            <element signature="e#3934#4208#0" expanded="true" />
+            <element signature="e#4275#4630#0" expanded="true" />
+            <element signature="e#4683#5812#0" expanded="true" />
+            <element signature="e#4799#5802#0" expanded="true" />
+            <element signature="e#5612#5706#0" expanded="true" />
+            <element signature="e#5722#5800#0" expanded="true" />
+            <element signature="e#5889#10244#0" expanded="true" />
+            <element signature="e#5963#10233#0" expanded="true" />
+            <element signature="e#5971#6305#0" expanded="true" />
+            <element signature="e#6313#6570#0" expanded="true" />
+            <element signature="e#6578#6912#0" expanded="true" />
+            <element signature="e#6920#7246#0" expanded="true" />
+            <element signature="e#7259#7600#0" expanded="true" />
+            <element signature="e#7608#7873#0" expanded="true" />
+            <element signature="e#7881#8143#0" expanded="true" />
+            <element signature="e#8151#8493#0" expanded="true" />
+            <element signature="e#8501#8847#0" expanded="true" />
+            <element signature="e#8855#9181#0" expanded="true" />
+            <element signature="e#9189#9526#0" expanded="true" />
+            <element signature="e#9534#9874#0" expanded="true" />
+            <element signature="e#9882#10231#0" expanded="true" />
+            <element signature="e#10309#10573#0" expanded="true" />
+            <element signature="e#10617#11201#0" expanded="true" />
+            <element signature="e#10662#11190#0" expanded="true" />
+            <element signature="e#10878#10951#0" expanded="true" />
+            <element signature="e#10920#10921#0" expanded="true" />
+            <element signature="e#10946#10947#0" expanded="true" />
+            <element signature="e#10992#11065#0" expanded="true" />
+            <element signature="e#11034#11035#0" expanded="true" />
+            <element signature="e#11060#11061#0" expanded="true" />
+            <element signature="e#11111#11137#0" expanded="true" />
+            <element signature="e#11278#12082#0" expanded="true" />
+            <element signature="e#11638#12071#0" expanded="true" />
+            <element signature="e#11664#11759#0" expanded="true" />
+            <element signature="e#11677#11754#0" expanded="true" />
+            <element signature="e#11771#11959#0" expanded="true" />
+            <element signature="e#11784#11832#0" expanded="true" />
+            <element signature="e#11845#11893#0" expanded="true" />
+            <element signature="e#11907#11955#0" expanded="true" />
+            <element signature="e#11972#12069#0" expanded="true" />
+            <element signature="e#12159#14586#0" expanded="true" />
+            <element signature="e#12805#14575#0" expanded="true" />
+            <element signature="e#12853#12948#0" expanded="true" />
+            <element signature="e#12866#12943#0" expanded="true" />
+            <element signature="e#12965#13052#0" expanded="true" />
+            <element signature="e#13063#13274#0" expanded="true" />
+            <element signature="e#13099#13147#0" expanded="true" />
+            <element signature="e#13161#13209#0" expanded="true" />
+            <element signature="e#13222#13270#0" expanded="true" />
+            <element signature="e#13288#14463#0" expanded="true" />
+            <element signature="e#13336#14297#0" expanded="true" />
+            <element signature="e#14329#14330#0" expanded="true" />
+            <element signature="e#14371#14372#0" expanded="true" />
+            <element signature="e#14406#14407#0" expanded="true" />
+            <element signature="e#14458#14459#0" expanded="true" />
+            <element signature="e#14476#14573#0" expanded="true" />
+            <element signature="e#14663#18123#0" expanded="true" />
+            <element signature="e#15167#18112#0" expanded="true" />
+            <element signature="e#15214#15309#0" expanded="true" />
+            <element signature="e#15227#15304#0" expanded="true" />
+            <element signature="e#15321#15518#0" expanded="true" />
+            <element signature="e#15335#15382#0" expanded="true" />
+            <element signature="e#15398#15446#0" expanded="true" />
+            <element signature="e#15465#15514#0" expanded="true" />
+            <element signature="e#15532#17670#0" expanded="true" />
+            <element signature="e#15566#17071#0" expanded="true" />
+            <element signature="e#16477#16629#0" expanded="true" />
+            <element signature="e#16676#17001#0" expanded="true" />
+            <element signature="e#17101#17235#0" expanded="true" />
+            <element signature="e#17279#17575#0" expanded="true" />
+            <element signature="e#17617#17618#0" expanded="true" />
+            <element signature="e#17665#17666#0" expanded="true" />
+            <element signature="e#17683#18110#0" expanded="true" />
+            <element signature="e#17721#17821#0" expanded="true" />
+            <element signature="e#17857#17956#0" expanded="true" />
+            <element signature="e#18016#18106#0" expanded="true" />
+            <element signature="e#18200#22419#0" expanded="true" />
+            <element signature="e#19114#22408#0" expanded="true" />
+            <element signature="e#19160#19334#0" expanded="true" />
+            <element signature="e#19360#19500#0" expanded="true" />
+            <element signature="e#19373#19495#0" expanded="true" />
+            <element signature="e#19400#19489#0" expanded="true" />
+            <element signature="e#19512#19952#0" expanded="true" />
+            <element signature="e#19545#19948#0" expanded="true" />
+            <element signature="e#19651#19942#0" expanded="true" />
+            <element signature="e#19729#19907#0" expanded="true" />
+            <element signature="e#19966#20872#0" expanded="true" />
+            <element signature="e#20016#20482#0" expanded="true" />
+            <element signature="e#20170#20467#0" expanded="true" />
+            <element signature="e#20191#20265#0" expanded="true" />
+            <element signature="e#20285#20457#0" expanded="true" />
+            <element signature="e#20530#20868#0" expanded="true" />
+            <element signature="e#20691#20853#0" expanded="true" />
+            <element signature="e#20904#21036#0" expanded="true" />
+            <element signature="e#21050#21648#0" expanded="true" />
+            <element signature="e#21110#21526#0" expanded="true" />
+            <element signature="e#21167#21168#0" expanded="true" />
+            <element signature="e#21298#21299#0" expanded="true" />
+            <element signature="e#21366#21424#0" expanded="true" />
+            <element signature="e#21466#21518#0" expanded="true" />
+            <element signature="e#21591#21592#0" expanded="true" />
+            <element signature="e#21643#21644#0" expanded="true" />
+            <element signature="e#21659#22406#0" expanded="true" />
+            <element signature="e#21707#22266#0" expanded="true" />
+            <element signature="e#21848#21849#0" expanded="true" />
+            <element signature="e#22013#22014#0" expanded="true" />
+            <element signature="e#22050#22137#0" expanded="true" />
+            <element signature="e#22187#22251#0" expanded="true" />
+            <element signature="e#22298#22402#0" expanded="true" />
+            <element signature="e#22331#22395#0" expanded="true" />
+            <element signature="e#22496#25895#0" expanded="true" />
+            <element signature="e#22633#25827#0" expanded="true" />
+            <element signature="e#23203#25606#0" expanded="true" />
+            <element signature="e#23447#23566#0" expanded="true" />
+            <element signature="e#23585#24937#0" expanded="true" />
+            <element signature="e#23646#23647#0" expanded="true" />
+            <element signature="e#23673#23674#0" expanded="true" />
+            <element signature="e#23716#24327#0" expanded="true" />
+            <element signature="e#23799#23961#0" expanded="true" />
+            <element signature="e#24069#24070#0" expanded="true" />
+            <element signature="e#24116#24117#0" expanded="true" />
+            <element signature="e#24167#24312#0" expanded="true" />
+            <element signature="e#24365#24631#0" expanded="true" />
+            <element signature="e#24667#24933#0" expanded="true" />
+            <element signature="e#25044#25318#0" expanded="true" />
+            <element signature="e#25056#25314#0" expanded="true" />
+            <element signature="e#25086#25308#0" expanded="true" />
+            <element signature="e#25138#25300#0" expanded="true" />
+            <element signature="e#25940#25993#0" expanded="true" />
+            <element signature="e#26059#26284#0" expanded="true" />
+            <element signature="e#26350#26575#0" expanded="true" />
+            <element signature="e#26641#26866#0" expanded="true" />
+            <element signature="e#26911#27459#0" expanded="true" />
+            <element signature="e#26929#27450#0" expanded="true" />
+            <element signature="e#26948#27429#0" expanded="true" />
+            <element signature="e#27032#27064#0" expanded="true" />
+            <element signature="e#27066#27426#0" expanded="true" />
+            <element signature="e#27076#27106#0" expanded="true" />
+            <element signature="e#27196#27225#0" expanded="true" />
+            <element signature="e#27361#27390#0" expanded="true" />
+            <element signature="e#27504#28159#0" expanded="true" />
+            <element signature="e#27522#28150#0" expanded="true" />
+            <element signature="e#27541#28129#0" expanded="true" />
+            <element signature="e#27625#27690#0" expanded="true" />
+            <element signature="e#27692#28126#0" expanded="true" />
+            <element signature="e#27702#27731#0" expanded="true" />
+            <element signature="e#27815#27850#0" expanded="true" />
+            <element signature="e#27852#28121#0" expanded="true" />
+            <element signature="e#27915#28118#0" expanded="true" />
+            <element signature="e#27938#27977#0" expanded="true" />
+            <element signature="e#27979#28110#0" expanded="true" />
+            <element signature="e#28001#28108#0" expanded="true" />
+            <element signature="e#28016#28102#0" expanded="true" />
+            <element signature="e#28204#28988#0" expanded="true" />
+            <element signature="e#28222#28979#0" expanded="true" />
+            <element signature="e#28241#28958#0" expanded="true" />
+            <element signature="e#28325#28372#0" expanded="true" />
+            <element signature="e#28374#28952#0" expanded="true" />
+            <element signature="e#28391#28642#0" expanded="true" />
+            <element signature="e#28404#28526#0" expanded="true" />
+            <element signature="e#28536#28638#0" expanded="true" />
+            <element signature="e#28675#28868#0" expanded="true" />
+            <element signature="e#28688#28864#0" expanded="true" />
+            <element signature="e#28870#28947#0" expanded="true" />
+            <element signature="e#28895#28945#0" expanded="true" />
+            <element signature="e#29033#31415#0" expanded="true" />
+            <element signature="e#29051#31406#0" expanded="true" />
+            <element signature="e#29070#31385#0" expanded="true" />
+            <element signature="e#29154#29190#0" expanded="true" />
+            <element signature="e#29192#31382#0" expanded="true" />
+            <element signature="e#29203#29238#0" expanded="true" />
+            <element signature="e#29240#29655#0" expanded="true" />
+            <element signature="e#29251#29322#0" expanded="true" />
+            <element signature="e#29283#29318#0" expanded="true" />
+            <element signature="e#29324#29392#0" expanded="true" />
+            <element signature="e#29335#29375#0" expanded="true" />
+            <element signature="e#29418#29448#0" expanded="true" />
+            <element signature="e#29510#29582#0" expanded="true" />
+            <element signature="e#29542#29578#0" expanded="true" />
+            <element signature="e#29584#29653#0" expanded="true" />
+            <element signature="e#29595#29636#0" expanded="true" />
+            <element signature="e#29681#29714#0" expanded="true" />
+            <element signature="e#29716#31380#0" expanded="true" />
+            <element signature="e#29727#29757#0" expanded="true" />
+            <element signature="e#29844#30072#0" expanded="true" />
+            <element signature="e#29868#29922#0" expanded="true" />
+            <element signature="e#30099#30129#0" expanded="true" />
+            <element signature="e#30168#31377#0" expanded="true" />
+            <element signature="e#30191#30513#0" expanded="true" />
+            <element signature="e#30255#30481#0" expanded="true" />
+            <element signature="e#30265#30400#0" expanded="true" />
+            <element signature="e#30515#31358#0" expanded="true" />
+            <element signature="e#30524#30806#0" expanded="true" />
+            <element signature="e#30571#30693#0" expanded="true" />
+            <element signature="e#30706#30800#0" expanded="true" />
+            <element signature="e#30742#30743#0" expanded="true" />
+            <element signature="e#30791#30792#0" expanded="true" />
+            <element signature="e#30964#31068#0" expanded="true" />
+            <element signature="e#31011#31061#0" expanded="true" />
+            <element signature="e#31158#31345#0" expanded="true" />
+            <element signature="e#31205#31338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/i18n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="144" column="3" selection-start-line="144" selection-start-column="3" selection-end-line="144" selection-end-column="3" />
+          <folding>
+            <element signature="e#23#357#0" expanded="true" />
+            <element signature="e#365#623#0" expanded="true" />
+            <element signature="e#631#965#0" expanded="true" />
+            <element signature="e#973#1300#0" expanded="true" />
+            <element signature="e#1313#1655#0" expanded="true" />
+            <element signature="e#1663#1928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/components/cal-panel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="135" column="31" selection-start-line="135" selection-start-column="31" selection-end-line="135" selection-end-column="31" />
+          <folding>
+            <element signature="n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#1412#1441#0" expanded="true" />
+            <element signature="e#1615#1655#0" expanded="true" />
+            <element signature="e#1670#1867#0" expanded="true" />
+            <element signature="e#1684#1731#0" expanded="true" />
+            <element signature="e#1747#1795#0" expanded="true" />
+            <element signature="e#1814#1863#0" expanded="true" />
+            <element signature="e#1881#3958#0" expanded="true" />
+            <element signature="e#2761#2970#0" expanded="true" />
+            <element signature="e#3012#3355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+          <folding>
+            <element signature="n#!!block;n#dateTimeFormatter#0" expanded="true" />
+            <element signature="e#419#673#0" expanded="true" />
+            <element signature="e#735#999#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#266#380#0" expanded="true" />
+            <element signature="e#573#735#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#931#1074#0" expanded="true" />
+            <element signature="e#1764#2038#0" expanded="true" />
+            <element signature="e#1776#2034#0" expanded="true" />
+            <element signature="e#1806#2028#0" expanded="true" />
+            <element signature="e#1858#2020#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/dev/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+          <folding>
+            <element signature="n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#vue-event-calendar#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#vue-event-calendar#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#template#0;n#vue-event-calendar#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#template#0;n#vue-event-calendar#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#752#938#0" expanded="true" />
+            <element signature="e#939#1116#0" expanded="true" />
+            <element signature="e#1117#1294#0" expanded="true" />
+            <element signature="e#1295#1472#0" expanded="true" />
+            <element signature="e#1473#1650#0" expanded="true" />
+            <element signature="e#1651#1837#0" expanded="true" />
+            <element signature="e#1838#1978#0" expanded="true" />
+            <element signature="n#style#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/src/vue-event-calendar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="297" column="30" selection-start-line="297" selection-start-column="30" selection-end-line="297" selection-end-column="30" />
+          <folding>
+            <element signature="n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#cal-panel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#!!top" expanded="true" />
+            <element signature="e#593#635#0" expanded="true" />
+            <element signature="e#803#3579#0" expanded="true" />
+            <element signature="e#849#909#0" expanded="true" />
+            <element signature="e#934#1057#0" expanded="true" />
+            <element signature="e#961#1051#0" expanded="true" />
+            <element signature="e#1072#1482#0" expanded="true" />
+            <element signature="e#1105#1478#0" expanded="true" />
+            <element signature="e#1263#1439#0" expanded="true" />
+            <element signature="e#1496#2359#0" expanded="true" />
+            <element signature="e#1675#1980#0" expanded="true" />
+            <element signature="e#1696#1770#0" expanded="true" />
+            <element signature="e#1790#1970#0" expanded="true" />
+            <element signature="e#2179#2341#0" expanded="true" />
+            <element signature="e#2518#2980#0" expanded="true" />
+            <element signature="e#2606#2607#0" expanded="true" />
+            <element signature="e#2662#2663#0" expanded="true" />
+            <element signature="e#2729#2787#0" expanded="true" />
+            <element signature="e#2828#2880#0" expanded="true" />
+            <element signature="e#2991#3577#0" expanded="true" />
+            <element signature="e#3123#3124#0" expanded="true" />
+            <element signature="e#3212#3213#0" expanded="true" />
+            <element signature="e#3248#3327#0" expanded="true" />
+            <element signature="e#3376#3440#0" expanded="true" />
+            <element signature="e#3503#3567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vue2-events-calendar/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
