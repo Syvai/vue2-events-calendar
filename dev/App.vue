@@ -54,16 +54,16 @@ export default {
         date: `${today.getFullYear()}/${today.getMonth() + 1}/${today.getDate()}`,
         title: 'Title-1',
         desc: 'longlonglong description',
-        icon: 'http://35.200.50.235/mangopieuploader/display/calendar_icons/201901/9107cb3f55e3dd5dc853c4700015ac41.png'
+        icon: 'icon3.png'
       },{
-        date: '2019-01-20 00:00:00',
+        date: '2018-12-15 00:00:00',
         title: 'Title-1',
         desc: 'longlonglong description',
-        icon: 'http://35.200.50.235/mangopieuploader/display/calendar_icons/201901/9107cb3f55e3dd5dc853c4700015ac41.png'
+        icon: 'icon1.png'
       },{
-        date: `2019-1-24: 00:00:00`,
+        date: `2018-12-24: 00:00:00`,
         title: 'Title-2',
-        icon: 'http://35.200.50.235/mangopieuploader/display/calendar_icons/201901/3ef9fc105be16ae3182ad5890de791f3.png'
+        icon: 'icon2.png'
       },{
         date: `${today.getFullYear()}/${today.getMonth() === 11 ? 1 : today.getMonth() + 2}/06`,
         title: 'Title-3',

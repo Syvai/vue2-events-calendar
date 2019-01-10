@@ -572,7 +572,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
 
 
 
@@ -1048,10 +1047,11 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
         othermonth: date.status == 0,
         saturday: date.day === 6,
         sunday: date.day === 0,
-        icon1: date.icon == 'icon1.png',
-        icon2: date.icon == 'icon2.png',
-        icon3: date.icon == 'icon3.png'
+        icon: date.icon
       }, _obj[_vm.calendar.options.className] = (date.date == _vm.selectedDay), _obj ) ].concat( date.customClass),
+      style: ({
+        backgroundImage: 'url(' + date.icon + ')'
+      }),
       on: {
         "click": function($event) {
           _vm.handleChangeCurday(date)
