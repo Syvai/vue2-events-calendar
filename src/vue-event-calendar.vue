@@ -316,18 +316,8 @@ export default {
         .othermonth {
           color: #cccccc;
         }
-        .icon1 {
-          background-image: url(./img/icon1.png);
-          background-repeat: no-repeat;
-          background-position: left 10px bottom 10px;
-        }
-        .icon2 {
-          background-image: url(./img/icon2.png);
-          background-repeat: no-repeat;
-          background-position: left 10px bottom 10px;
-        }
-        .icon3 {
-          background-image: url(./img/icon3.png);
+        .icon {
+          // background-image: url(./img/icon1.png);
           background-repeat: no-repeat;
           background-position: left 10px bottom 10px;
         }

@@ -1,5 +1,5 @@
 {
-  "name": "vue2-events-calendar",
+  "name": "vue2-events-calendars",
   "description": "A simple calendar to mark events for Vue2",
   "version": "1.0.0",
   "author": "syvai <syvaihour@gmail.com>",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeoffZhu/vue-event-calendar"
+    "url": "git+https://github.com/Syvai/vue2-events-calendar"
   },
   "main": "dist/index.js",
   "dependencies": {

@@ -23,11 +23,10 @@
             othermonth: date.status == 0,
             saturday: date.day === 6,
             sunday: date.day === 0,
-            icon1: date.icon == 'icon1.png',
-            icon2: date.icon == 'icon2.png',
-            icon3: date.icon == 'icon3.png',
+            icon: date.icon,
             [calendar.options.className] : (date.date == selectedDay)
           }, ...date.customClass]"
+          :style="{ backgroundImage: 'url(' + date.icon +')' }"
           :key="date.date" @click="handleChangeCurday(date)">
           <p class="date-num">
             {{date.date.split('-')[2]}}</p>
